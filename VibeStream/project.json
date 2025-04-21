@@ -1,0 +1,43 @@
+{
+  "name": "VibeStream",
+  "description": "An app that matches your music to your mood",
+  "goal": "Create something cool for music lovers",
+  "stage": "Ideation",
+  "persona": "Vibe Coder (Early Stage)",
+  "created_at": "2023-05-15T09:30:00Z",
+  "updated_at": "2023-05-15T10:45:00Z",
+  "tools": [
+    {
+      "name": "Problem Definition",
+      "status": "In Progress",
+      "content": "People struggle to find music that matches how they're feeling at the moment."
+    },
+    {
+      "name": "Idea Log",
+      "status": "Started",
+      "ideas": [
+        {
+          "title": "Mood detection through selfie",
+          "description": "What if the app could scan your face and figure out what mood you're in?",
+          "impact": "High",
+          "effort": "High"
+        },
+        {
+          "title": "Playlist based on time of day",
+          "description": "Maybe the app could suggest different music based on what time it is",
+          "impact": "Medium",
+          "effort": "Low"
+        }
+      ]
+    }
+  ],
+  "context": {
+    "research": [],
+    "feedback": [],
+    "inspirations": [
+      "Spotify's recommendation algorithm is cool",
+      "Saw a TikTok about how music affects mood"
+    ]
+  },
+  "notes": "I think this could be a fun side project. Not sure if people would actually use it though. Need to think about how to make it different from just another music player."
+}
